@@ -9,6 +9,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base: "./", // 🔧 Bu satır yönlendirme hatalarını çözer
   build: {
     outDir: 'dist',
     target: 'esnext',
