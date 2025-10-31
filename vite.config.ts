@@ -9,7 +9,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: "./", // 🔧 Bu satır yönlendirme hatalarını çözer
+  base: "/", // ✅ root deployment için doğru ayar
   build: {
     outDir: 'dist',
     target: 'esnext',
