@@ -1,0 +1,3 @@
+Contact: https://mintara.xyz
+Preferred-Languages: en, tr
+Canonical: https://mintara.xyz/.well-known/security.txt

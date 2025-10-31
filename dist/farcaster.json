@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x71DEdF5544692aF64FC2Ce040A2b3dA573957275"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Mintara Token Builder",
+    "homeUrl": "https://mintara.xyz",
+    "iconUrl": "https://mintara.xyz/mintara-logo.svg",
+    "splashImageUrl": "https://mintara.xyz/mintara-logo.svg",
+    "splashBackgroundColor": "#0052FF",
+    "webhookUrl": "https://mintara.xyz/api/webhook",
+    "subtitle": "No-Code Token Creation on Base",
+    "description": "Mintara Token Builder is the easiest no-code tool to create, deploy, and manage your own ERC-20 tokens on the Base network. Secure, fast, and reliable.",
+    "screenshotUrls": [
+      "https://mintara.xyz/screenshot1.png",
+      "https://mintara.xyz/screenshot2.png"
+    ],
+    "primaryCategory": "finance",
+    "tags": ["token", "base", "no-code", "crypto", "builder", "mint", "erc20"],
+    "heroImageUrl": "https://mintara.xyz/mintara-logo.svg",
+    "tagline": "Your Token, Your Rules. No Code.",
+    "ogTitle": "Mintara Token Builder: No-Code ERC-20 on Base",
+    "ogDescription": "Create, deploy, and manage your own tokens on the Base network instantly.",
+    "ogImageUrl": "https://mintara.xyz/mintara-logo.svg"
+  }
+}
